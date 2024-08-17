@@ -1,0 +1,6 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 8
+names: ['Gloves', 'Helmet', 'No Gloves', 'No Helmet', 'No Vest', 'Vest', 'person', 'shoes']
