@@ -1,7 +1,6 @@
 dataset/test
 dataset/train
 dataset/valid
-ppe.pt
 runs/detect/train
 runs/detect/train2
 runs/detect/train3

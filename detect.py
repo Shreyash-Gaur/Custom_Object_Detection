@@ -3,7 +3,7 @@ import cv2
 import cvzone
 import math
 
-cap = cv2.VideoCapture("PPE.mp4") 
+cap = cv2.VideoCapture("Video/PPEL.mp4") 
 model = YOLO("runs/detect/train10/weights/best.pt")
 classNames = ['Gloves', 'Helmet', 'No Gloves', 'No Helmet', 'No Vest', 'Vest', 'person', 'shoes']
 #classNames = ['Hardhat', 'Mask', 'NO-Hardhat', 'NO-Mask', 'NO-Safety Vest', 'Person', 'Safety Cone', 'Safety Vest', 'machinery', 'vehicle']
