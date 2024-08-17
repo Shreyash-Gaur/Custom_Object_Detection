@@ -1,11 +1,11 @@
 
 ---
 
-# 🚀 Custom_Object_Detection: Empowering Your Vision 🧠 
+# 🚀 Custom Object Detection : Empowering Your Vision 🧠 
 
-### **Harnessing YOLOv9 & YOLOv10 for Real-Time, Tailored Object Detection/Recognition/Classification**
+## **Harnessing YOLOv9 & YOLOv10 for Real-Time, Tailored Object Detection/Recognition/Classification**
 
-Welcome to a project that redefines object detection. Custom_Object_Detection combines the power of YOLOv9 and YOLOv10 with the flexibility of custom dataset training, enabling you to detect virtually any object in real-time. Whether you're monitoring industrial processes, tracking wildlife, or creating innovative applications, this project empowers you to tailor your object detection solution precisely to your needs.
+Welcome to a project that redefines object detection. Custom_Object_Detection combines the power of YOLOv9 and YOLOv10 with the flexibility of custom dataset training, enabling you to detect virtually any object in real-time. Whether monitoring industrial processes, tracking wildlife, or creating innovative applications, this project empowers you to tailor your object detection solution precisely to your needs.
 
 ## 🌟 Project Highlights
 
